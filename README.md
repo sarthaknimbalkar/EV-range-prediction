@@ -1,7 +1,3 @@
-I apologize for that. Let's create a more detailed and comprehensive README for your project.
-
----
-
 # Electric Vehicle Range Prediction - Regression Analysis
 
 ## Overview
